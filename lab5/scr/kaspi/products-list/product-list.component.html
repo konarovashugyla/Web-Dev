@@ -1,0 +1,10 @@
+<h2>Products</h2>
+<button type="button" (click)="onSelect('For woman')">For woman</button>
+<button type="button" (click)="onSelect('Technique')"
+style="margin-left: 20px;">Technique</button>
+<button type="button" (click)="onSelect('Home')"
+style="margin-left: 20px;">Home</button>
+<button type="button" (click)="onSelect('For baby')"
+style="margin-left: 20px;">For baby</button>
+<app-app-item [selectedProduct]="selectedProduct"></app-app-item>
+
