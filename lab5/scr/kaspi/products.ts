@@ -20,7 +20,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/isehan-essentsija-sunkiller-perfect-water-spf50-50-ml-100386249/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h63/h75/49838050082846/isehan-sunkiller-perfect-water-essence-spf50-essentsiya-50-ml-100386249-1.jpg',
     rating:'2',
-    category:"for woman",
+    category:"For woman",
     likes:0
   },
   {
@@ -31,7 +31,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/mars-bounty-shokoladnyi-batonchik-molochnyi-kokos-55-g-100222674/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h90/h29/46752209240094/bounty-shokoladnyi-batonchik-molochnyi-kokos-55-g-100222674-1.jpg',
     rating:'5',
-    category:"food",
+    category:"Home",
     likes:0
   },
   {
@@ -42,7 +42,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/beibe-good-home-kitchen-889-211-100802645/?c=750000000#!/item',
     Image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h5c/hdd/49877558657054/beibe-good-home-kitchen-889-211-100802645-1.jpg',
     rating:'4,5',
-    category:"for baby",
+    category:"For baby",
     likes:0
   },
   {
@@ -53,7 +53,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/istok-sk22-chernyi-106721782/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h0f/he7/62955170136094/istok-sk22-cernyj-106721782-1.jpg',
     rating:'3',
-  category:"home",
+  category:"For woman",
   likes:0
 },
 {
@@ -64,7 +64,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/dr-jart-ceramidin-krem-dlja-ruk-50-ml-17601131/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h9b/hba/31883658133534/dr-jart-ceramidin-hand-cream-50-ml-17601131-1-Container.jpg',
     rating:'10',
-  category:"woman",
+  category:"For woman",
   likes:0
 },
 
@@ -76,7 +76,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/apple-airpods-3-belyi-102667744/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hd3/h7b/46719105990686/apple-airpods-3-belyj-102667744-1.jpg',
     rating:'6',
-    category:"Apple",
+    category:"Technique",
     likes:0
   },
   {
@@ -87,7 +87,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/instax-mini-11-fioletovyi-plenka-20-sht-103580120/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hca/h9d/65599303712798/instax-mini-11-fioletovyi-plenka-20-sht-103580120-1.jpg',
     rating:'5',
-    category:"technique",
+    category:"Technique",
     likes:0
   },
   {
@@ -98,7 +98,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/579538964-bigudi-579538964-fioletovyi-6-sht-106769606/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hd0/ha1/63041275461662/579538964-bigudi-579538964-fioletovyi-6-sht-106769606-1.jpg',
     rating:'7',
-    category:"hair",
+    category:"For woman",
     likes:0
   },
   {
@@ -109,7 +109,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/dyson-hs05-airwrap-complete-fen-schetka-1300-w-106790035/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hc5/h8c/63083544707102/dyson-hs05-airwrap-complete-fen-setka-1300-w-106790035-1.jpg',
     rating:'10',
-    category:"Dyson",
+    category:"Technique",
     likes:0
   },
   {
@@ -120,7 +120,7 @@ export const products : Product[]=[
     link:'https://kaspi.kz/shop/p/apple-macbook-pro-14-mkgp3-seryi-102866247/?c=750000000#!/item',
     image:'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h26/h93/47153374134302/apple-macbook-pro-14-mkgp3-seryj-102866247-1.jpg',
     rating:'10',
-    category:"Apple",
+    category:"Technique",
     likes:0
   },
 ];
