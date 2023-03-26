@@ -1,3 +1,8 @@
 n = int(input())
-l = [int(i) for i in input().split()]
-print(sum(x > y for x, y in zip(l[1:], l)))
+i = 1
+while i < n+1:
+    i = i * 2
+    if i == n:
+        print("YES")
+    else:
+        print("NO")

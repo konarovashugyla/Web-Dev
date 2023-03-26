@@ -1,4 +1,7 @@
-n = int(input())
-k = int(input())
-print(k // n)
-print(k % n)
+def xor(x, y):
+    if x != y:
+        return 1
+    else:
+        return 0
+x, y = map(int, input().split())
+print(xor(x, y))
