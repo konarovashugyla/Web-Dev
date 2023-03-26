@@ -1,4 +1,3 @@
-a, n = map(int, input().split())
-def pow(a, n):
-    print(a**n)
-pow(a, n)
+n = int(input())
+print('The next number for the number', n,'is', n+1)
+print('The previous number for the number', n, 'is', n-1)

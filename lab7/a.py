@@ -1,7 +1,4 @@
-l = [int(i) for i in input().split()]
-# mini = 9999
-def Min(l):
-    # for i in range(len(l)):
-    #     if(mini)
-    print(min(l))
-Min(l)
+import math
+a = int(input())
+b = int(input())
+print(math.sqrt(a*a + b*b))
