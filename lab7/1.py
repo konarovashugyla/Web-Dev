@@ -1,4 +1,2 @@
-import math
-a = int(input())
-b = int(input())
-print(math.sqrt(a*a + b*b))
+def first_last6(nums):
+    return 6 in (nums[0], nums[-1])
